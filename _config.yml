@@ -26,8 +26,9 @@ social:
 address:
   - line: 广东省，深圳市南山区科技园南四道
 
-# Credits content
-slogan: 'We are so diao, to be niubility!'
+# Slogan content
+slogan:
+  - line: 'We are so diao, to be niubility!'
 
 # Build settings
 markdown: kramdown
