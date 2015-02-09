@@ -13,9 +13,9 @@ color:
 # Footer settings
 footer:
   copyright: WQTeam
-  location: Location
-  social: Follow or Join Us
-  slogan: Slogan
+  location: 追踪我们
+  social: 加入我们
+  slogan: 我们的口号
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -24,10 +24,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: SHENZHEN, GUANGDONG
+  - line: 广东省，深圳市南山区科技园南四道
 
 # Credits content
-credits: 'We are so diao, to be niubility!'
+slogan: 'We are so diao, to be niubility!'
 
 # Build settings
 markdown: kramdown
