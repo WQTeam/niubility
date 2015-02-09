@@ -28,8 +28,7 @@ address:
   - line: 创维半导体大厦西座四楼我趣旅行
 
 # Slogan content
-slogan:
-  - line: 'We are so diao, to be niubility!'
+slogan: 'We are so diao, to be niubility!'
 
 # Build settings
 markdown: kramdown
