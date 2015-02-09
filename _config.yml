@@ -1,6 +1,6 @@
 # Site settings
 title: WQTeam
-email: 
+email: xinwang@woqu.com
 url: https://github.com/WQTeam
 description: "We are so diao, to be niubility!"
 
@@ -14,29 +14,20 @@ color:
 footer:
   copyright: WQTeam
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Follow or Join Us
+  slogan: Slogan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
   - title: github
     url: https://github.com/WQTeam
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: nanshan district Gao Xinna four skyworth semiconductor design west tower 4 layers
-  - line: SHENZHEN, Guangdong
+  - line: SHENZHEN, GUANGDONG
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'We are so diao, to be niubility!'
 
 # Build settings
 markdown: kramdown
