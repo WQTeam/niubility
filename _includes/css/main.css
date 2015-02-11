@@ -246,6 +246,10 @@ section.success {
     margin: 0;
 }
 
+.img-portfolio {
+    border-radius: 50%;
+}
+
 #portfolio * {
     z-index: 2;
 }
