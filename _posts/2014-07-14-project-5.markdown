@@ -8,6 +8,6 @@ blog: http://frend.cc
 email: xin.wang@woqu.com
 github: https://github.com/WisdomPig
 job: Front-end Engineer
-description: 前端开发工程师，目前很挫并努力学习中...
+description: 活着很简单，找到一件让自己愉快的事情，可以跟小孩一样天真的玩着。
 
 ---
