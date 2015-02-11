@@ -1,9 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2015-02-12
 img: frend.jpg
-alt: frend's avatar
 first-name: Frend
 last-name: Wong
 email: xin.wang@woqu.com
