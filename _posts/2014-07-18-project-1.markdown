@@ -8,6 +8,6 @@ blog: http://www.oncenote.com
 email: jamin.zhang@woqu.com
 github: https://github.com/jaminzzhang
 job: iOS Engineer
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Coder, iOS Developer。 目前在码代码中，喜欢电影、旅游。 幻想有一天能环游世界。
 
 ---
