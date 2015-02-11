@@ -1,8 +1,9 @@
 # Site settings
-title: WQTeam
+title: WQTeam - the it team from WOQU.com
 email: xinwang@woqu.com
 url: https://github.com/WQTeam
-description: "We are so diao, to be niubility!"
+keywords: "it, woqu, coder, web, ios, team"
+description: "We are the IT team from WOUQ.com"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
