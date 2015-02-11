@@ -17,16 +17,22 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered img-portfolio" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
+                                {% if post.blog %}
+                                 <li>Blog:
+                                    <strong><a target="_blank" href="{{ post.blog }}">{{ post.blog }}</a>
+                                    </strong>
+                                </li>
+                                {% endif %}
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">{{ post.github }}</a>
+                                    <strong><a target="_blank" href="{{ post.github }}">{{ post.github }}</a>
                                     </strong>
                                 </li>
                                 <li>Email:
-                                    <strong><a href="http://startbootstrap.com">{{ post.email }}</a>
+                                    <strong><a href="mailto:{{ post.email }}">{{ post.email }}</a>
                                     </strong>
                                 </li>
                                 <li>Job:
-                                    <strong><a href="http://startbootstrap.com">{{ post.job }}</a>
+                                    <strong><a href="javascript:;">{{ post.job }}</a>
                                     </strong>
                                 </li>
                             </ul>

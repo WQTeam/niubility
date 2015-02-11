@@ -4,6 +4,7 @@ modal-id: 1
 img: zengming.jpg
 first-name: jamin
 last-name: Zhang
+blog: http://www.oncenote.com
 email: jamin.zhang@woqu.com
 github: https://github.com/jaminzzhang
 job: iOS Engineer
