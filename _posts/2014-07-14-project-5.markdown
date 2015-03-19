@@ -5,8 +5,8 @@ img: frend.jpg
 first-name: Frend
 last-name: Wong
 blog: http://frend.cc
-email: xin.wang@woqu.com
-github: https://github.com/WisdomPig
+email: frend.wong@gmail.com
+github: https://github.com/FrendEr
 job: Front-end Engineer
 description: 活着很简单，找到一件让自己愉快的事情，可以跟小孩一样天真的玩着。
 
